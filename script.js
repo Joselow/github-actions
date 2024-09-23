@@ -1,0 +1,3 @@
+console.table({
+  hola: 'mundo'
+})
